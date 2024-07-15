@@ -7,3 +7,11 @@ have common functions and operations that can be applied on them.
 #####################################################################################
 
 Complexity analysis, Big O
+***************************************************
+ 
+ how to evaluate code ?
+ -> which is faster and uses less memory.
+ -> Faster (Time Complexity) -> count the number of simple operations the computer has to do.
+    how runtime grows as input size grows (Asymptotic analysis).
+    Asymptotic analysis is expressed by big o notations.
+ -> Memory (Space Complexity)
