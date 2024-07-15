@@ -1,0 +1,9 @@
+What are data structures ?
+************************************************************************
+Collection of data values, have relationships among them, 
+have common functions and operations that can be applied on them.
+
+#####################################################################################
+#####################################################################################
+
+Complexity analysis, Big O
